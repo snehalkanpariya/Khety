@@ -1,0 +1,62 @@
+{
+  "brand": {
+    "name": "Khety",
+    "tagline": "Growing Together"
+  },
+  "navigation": {
+    "overview": "Overview",
+    "designSystem": "Design system",
+    "language": "Choose language"
+  },
+  "foundation": {
+    "eyebrow": "A stronger farming community",
+    "title": "Good things grow when work comes together.",
+    "description": "Find skilled agricultural service providers nearby, get the work your farm needs, and grow with confidence.",
+    "primaryAction": "Explore the foundation",
+    "secondaryAction": "See our principles",
+    "imageAlt": "Green fields growing in the warm morning light",
+    "trustLabel": "Made for real farm work",
+    "trustText": "Local expertise. Reliable service.",
+    "location": "Anand, Gujarat",
+    "sectionLabel": "Built around your work",
+    "sectionTitle": "The right help, for every season.",
+    "sectionDescription": "Khety brings farmers and experienced service providers together, from the first field preparation to a healthier harvest.",
+    "ploughing": "Field preparation",
+    "ploughingDetail": "Find experienced help for ploughing and soil preparation.",
+    "sowing": "Sowing & planting",
+    "sowingDetail": "Connect with local teams for timely sowing and planting.",
+    "cropCare": "Crop care",
+    "cropCareDetail": "Get practical support to care for crops through the season.",
+    "principlesLabel": "A thoughtful foundation",
+    "principlesTitle": "Designed to feel clear, calm, and capable.",
+    "principleOneTitle": "People before equipment",
+    "principleOneDetail": "Book skilled agricultural work, not machinery rentals.",
+    "principleTwoTitle": "One community, two roles",
+    "principleTwoDetail": "Farmers and service providers can both find their place in Khety.",
+    "principleThreeTitle": "Ready to grow in your language",
+    "principleThreeDetail": "A shared experience for English, Gujarati, and Hindi.",
+    "previewLabel": "Interface essentials",
+    "previewTitle": "A small preview of the design system",
+    "previewDescription": "Reusable building blocks keep every Khety experience familiar and easy to use.",
+    "buttonLabel": "Buttons",
+    "primaryButton": "Primary action",
+    "secondaryButton": "Secondary action",
+    "fieldLabel": "Text field",
+    "fieldPlaceholder": "e.g. Field preparation",
+    "cardLabel": "Service card",
+    "cardTitle": "Ploughing for 3 acres",
+    "cardDetail": "Experienced local service providers",
+    "statusLabel": "Available nearby",
+    "footer": "A thoughtful start for a growing community."
+  },
+  "errors": {
+    "notFoundTitle": "We couldn't find that page",
+    "notFoundDescription": "This foundation is still taking shape. Head back to the overview to continue.",
+    "backHome": "Back to overview"
+  },
+  "languages": {
+    "en": "English",
+    "gu": "Gujarati",
+    "hi": "Hindi"
+  }
+}
